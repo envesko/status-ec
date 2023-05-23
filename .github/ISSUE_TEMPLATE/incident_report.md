@@ -1,13 +1,13 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Incident report
+about: Create a report of an ongoing incident or impact
 title: ''
-labels: 'bug'
-assignees: 'AnandChowdhary'
+labels: 'pending-incident'
+assignees: ''
 
 ---
 
-<!-- If you have a question, you should use Discussions instead: https://github.com/upptime/upptime/discussions -->
+**!! The information you enter is public, please do not include personal details !!**
 
 **Describe the bug**
 A clear and concise description of what the bug is.

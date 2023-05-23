@@ -1,31 +1,42 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: envesko
+repo: status-ec
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Envesko Cloud - HTTPS
+    url: https://envesko.cloud
+  - name: Song Command API
+    url: https://envesko.cloud/api/esm/spotify/get-current-song
+    headers:
+      - "Authorzation: Bearer $ESM_TOKEN"
+      - "Content-Type: application/json"
+    ___dangerous__body_degraded: "Day Error Rate Above 5%"
+    ___dangerous__body_down: "Hour Error Rate Above 5%"
+  - name: Clip Command API
+    url: https://envesko.cloud/api/esm/twitch/create-clip
+    headers:
+      - "Authorzation: Bearer $ESM_TOKEN"
+      - "Content-Type: application/json"
+    ___dangerous__body_degraded: "Day Error Rate Above 5%"
+    ___dangerous__body_down: "Hour Error Rate Above 5%"
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.envesko.cloud
+  name: Envesko Cloud Status
+  introTitle: "**Envesko Cloud** Status Monitor"
+  introMessage: Incidents are tracked automatically by our system. If you encounter a problem with the platform, please [Open an Incident Report](https://github.com/envesko/status/issues/new/choose) or [Open a Ticket](https://base.envesko.com/contact.php).
+  logoUrl: https://github.com/envesko/status-ec/blob/master/assets/logo.png
+  favicon: https://github.com/envesko/status-ec/blob/master/assets/favicon.png
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Open Incident
+      href: https://github.com/$OWNER/$REPO/issues/new/choose
+    - title: Open Ticket
+      href: https://base.envesko.com/contact.php
+    - title: Discord
+      href: https://discord.gg/7zD8qBspuy
+  assignees:
+    - Brandin
+  theme: night
+  i18n:
+    footer: Powered by [Envesko](https://envesko.com)
