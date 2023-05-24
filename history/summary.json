@@ -34,7 +34,7 @@
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2023-05-24": 1
+      "2023-05-24": 37
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-05-24": 1
+      "2023-05-24": 37
     }
   }
 ]
