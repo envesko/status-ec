@@ -7,14 +7,14 @@ sites:
   - name: Song Command API
     url: https://envesko.cloud/api/esm/spotify/get-current-song
     headers:
-      - "Authorzation: Bearer $ESM_TOKEN"
+      - "Authorization: Bearer $ESM_TOKEN"
       - "Content-Type: application/json"
     ___dangerous__body_degraded: "Day Error Rate Above 5%"
     ___dangerous__body_down: "Hour Error Rate Above 5%"
   - name: Clip Command API
     url: https://envesko.cloud/api/esm/twitch/create-clip
     headers:
-      - "Authorzation: Bearer $ESM_TOKEN"
+      - "Authorization: Bearer $ESM_TOKEN"
       - "Content-Type: application/json"
     ___dangerous__body_degraded: "Day Error Rate Above 5%"
     ___dangerous__body_down: "Hour Error Rate Above 5%"
