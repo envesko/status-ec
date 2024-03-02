@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "envesko-cloud-https",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.87%",
     "time": 379,
-    "timeDay": 367,
-    "timeWeek": 357,
-    "timeMonth": 396,
+    "timeDay": 461,
+    "timeWeek": 382,
+    "timeMonth": 402,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2024-03-01": 9,
       "2023-12-30": 510,
       "2023-07-26": 32
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 404,
-    "timeDay": 516,
-    "timeWeek": 582,
-    "timeMonth": 641,
+    "timeDay": 615,
+    "timeWeek": 568,
+    "timeMonth": 635,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2023-12-30": 510
@@ -52,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 368,
-    "timeDay": 685,
-    "timeWeek": 677,
-    "timeMonth": 670,
-    "timeYear": 368,
+    "time": 369,
+    "timeDay": 705,
+    "timeWeek": 682,
+    "timeMonth": 672,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2023-12-30": 510
     }
