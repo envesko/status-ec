@@ -6,9 +6,9 @@
     "slug": "envesko-cloud-https",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
     "time": 379,
     "timeDay": 346,
@@ -16,7 +16,7 @@
     "timeMonth": 364,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2024-03-12": 10,
+      "2024-03-12": 19,
       "2023-12-30": 510,
       "2023-07-26": 32
     }
@@ -28,9 +28,9 @@
     "slug": "song-command-api",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
     "time": 410,
     "timeDay": 0,
@@ -38,7 +38,7 @@
     "timeMonth": 603,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2024-03-12": 10,
+      "2024-03-12": 19,
       "2023-12-30": 510
     }
   },
@@ -47,19 +47,19 @@
     "url": "https://envesko.cloud/api/esm/twitch/create-clip",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "clip-command-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.88%",
-    "time": 378,
-    "timeDay": 0,
-    "timeWeek": 620,
-    "timeMonth": 662,
-    "timeYear": 378,
+    "time": 401,
+    "timeDay": 7175,
+    "timeWeek": 1557,
+    "timeMonth": 872,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2024-03-12": 0,
+      "2024-03-12": 9,
       "2023-12-30": 510
     }
   }
