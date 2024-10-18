@@ -4,7 +4,7 @@
     "url": "https://envesko.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "envesko-cloud-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 352,
     "timeYear": 410,
     "dailyMinutesDown": {
+      "2024-10-18": 0,
       "2024-09-08": 17,
       "2024-03-28": 43,
       "2024-03-13": 51,
