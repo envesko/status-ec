@@ -1,7 +1,7 @@
 url: https://envesko.cloud/api/esm/spotify/get-current-song
-status: down
-code: 415
-responseTime: 37
-lastUpdated: 2025-11-25T22:55:35.880Z
+status: up
+code: 200
+responseTime: 648
+lastUpdated: 2025-11-25T23:17:00.867Z
 startTime: 2023-05-24T01:13:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
