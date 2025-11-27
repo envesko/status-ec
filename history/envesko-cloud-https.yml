@@ -1,7 +1,7 @@
 url: https://envesko.cloud
-status: up
-code: 200
-responseTime: 334
-lastUpdated: 2025-11-26T23:20:20.621Z
+status: down
+code: 415
+responseTime: 194
+lastUpdated: 2025-11-27T11:33:39.500Z
 startTime: 2023-05-24T01:13:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
