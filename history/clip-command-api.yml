@@ -1,7 +1,7 @@
 url: https://envesko.cloud/api/esm/twitch/create-clip
-status: down
-code: 415
-responseTime: 61
-lastUpdated: 2025-12-20T06:15:09.697Z
+status: up
+code: 200
+responseTime: 425
+lastUpdated: 2025-12-20T06:46:35.636Z
 startTime: 2023-05-24T01:13:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
