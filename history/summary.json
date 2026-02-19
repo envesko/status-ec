@@ -4,17 +4,17 @@
     "url": "https://envesko.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "envesko-cloud-https",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "93.23%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "93.21%",
     "uptimeWeek": "91.34%",
     "uptimeMonth": "95.47%",
     "uptimeYear": "99.22%",
     "time": 375,
-    "timeDay": 300,
-    "timeWeek": 326,
-    "timeMonth": 365,
-    "timeYear": 377,
+    "timeDay": 296,
+    "timeWeek": 325,
+    "timeMonth": 364,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2026-02-19": 28,
       "2026-02-18": 160,
@@ -79,8 +79,7 @@
       "2025-11-21": 36,
       "2025-11-20": 22,
       "2025-11-19": 23,
-      "2025-11-18": 16,
-      "2025-11-17": 23
+      "2025-11-18": 16
     }
   },
   {
@@ -88,17 +87,17 @@
     "url": "https://envesko.cloud/api/esm/spotify/get-current-song",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "song-command-api",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "93.23%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "93.21%",
     "uptimeWeek": "91.34%",
     "uptimeMonth": "95.47%",
     "uptimeYear": "99.22%",
-    "time": 536,
-    "timeDay": 570,
-    "timeWeek": 535,
-    "timeMonth": 538,
-    "timeYear": 531,
+    "time": 535,
+    "timeDay": 485,
+    "timeWeek": 522,
+    "timeMonth": 534,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2026-02-19": 28,
       "2026-02-18": 161,
@@ -163,8 +162,7 @@
       "2025-11-21": 36,
       "2025-11-20": 22,
       "2025-11-19": 23,
-      "2025-11-18": 16,
-      "2025-11-17": 22
+      "2025-11-18": 16
     }
   },
   {
@@ -172,16 +170,16 @@
     "url": "https://envesko.cloud/api/esm/twitch/create-clip",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "clip-command-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "93.22%",
+    "uptimeDay": "93.20%",
     "uptimeWeek": "91.34%",
     "uptimeMonth": "95.43%",
     "uptimeYear": "99.22%",
     "time": 357,
-    "timeDay": 281,
-    "timeWeek": 282,
-    "timeMonth": 288,
+    "timeDay": 244,
+    "timeWeek": 276,
+    "timeMonth": 286,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2026-02-19": 28,
@@ -246,8 +244,7 @@
       "2025-11-21": 36,
       "2025-11-20": 22,
       "2025-11-19": 24,
-      "2025-11-18": 17,
-      "2025-11-17": 22
+      "2025-11-18": 17
     }
   }
 ]
