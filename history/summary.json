@@ -4,16 +4,16 @@
     "url": "https://envesko.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "envesko-cloud-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "93.27%",
+    "uptimeDay": "93.26%",
     "uptimeWeek": "92.76%",
     "uptimeMonth": "95.18%",
     "uptimeYear": "99.20%",
     "time": 375,
-    "timeDay": 289,
-    "timeWeek": 322,
-    "timeMonth": 364,
+    "timeDay": 263,
+    "timeWeek": 318,
+    "timeMonth": 362,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2026-02-21": 97,
@@ -78,8 +78,7 @@
       "2025-11-23": 24,
       "2025-11-22": 24,
       "2025-11-21": 36,
-      "2025-11-20": 22,
-      "2025-11-19": 23
+      "2025-11-20": 22
     }
   },
   {
@@ -87,17 +86,17 @@
     "url": "https://envesko.cloud/api/esm/spotify/get-current-song",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "song-command-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "93.27%",
+    "uptimeDay": "93.25%",
     "uptimeWeek": "92.77%",
     "uptimeMonth": "95.18%",
     "uptimeYear": "99.20%",
-    "time": 536,
-    "timeDay": 520,
-    "timeWeek": 524,
-    "timeMonth": 540,
-    "timeYear": 531,
+    "time": 535,
+    "timeDay": 401,
+    "timeWeek": 511,
+    "timeMonth": 536,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2026-02-21": 97,
       "2026-02-19": 80,
@@ -161,8 +160,7 @@
       "2025-11-23": 24,
       "2025-11-22": 24,
       "2025-11-21": 36,
-      "2025-11-20": 22,
-      "2025-11-19": 23
+      "2025-11-20": 22
     }
   },
   {
@@ -170,17 +168,17 @@
     "url": "https://envesko.cloud/api/esm/twitch/create-clip",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "clip-command-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "93.26%",
+    "uptimeDay": "93.25%",
     "uptimeWeek": "92.77%",
     "uptimeMonth": "95.18%",
     "uptimeYear": "99.20%",
-    "time": 357,
-    "timeDay": 317,
-    "timeWeek": 284,
-    "timeMonth": 287,
-    "timeYear": 343,
+    "time": 356,
+    "timeDay": 249,
+    "timeWeek": 278,
+    "timeMonth": 285,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2026-02-21": 97,
       "2026-02-19": 80,
@@ -243,8 +241,7 @@
       "2025-11-23": 24,
       "2025-11-22": 24,
       "2025-11-21": 36,
-      "2025-11-20": 22,
-      "2025-11-19": 24
+      "2025-11-20": 22
     }
   }
 ]
