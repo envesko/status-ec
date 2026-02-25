@@ -4,18 +4,19 @@
     "url": "https://envesko.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "envesko-cloud-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "89.13%",
-    "uptimeWeek": "93.95%",
-    "uptimeMonth": "94.97%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "94.85%",
+    "uptimeMonth": "95.14%",
     "uptimeYear": "99.17%",
     "time": 373,
-    "timeDay": 313,
-    "timeWeek": 319,
-    "timeMonth": 324,
-    "timeYear": 375,
+    "timeDay": 298,
+    "timeWeek": 312,
+    "timeMonth": 325,
+    "timeYear": 374,
     "dailyMinutesDown": {
+      "2026-02-25": 0,
       "2026-02-24": 157,
       "2026-02-22": 16,
       "2026-02-21": 196,
@@ -75,8 +76,7 @@
       "2025-11-28": 25,
       "2025-11-27": 48,
       "2025-11-26": 22,
-      "2025-11-25": 21,
-      "2025-11-24": 20
+      "2025-11-25": 21
     }
   },
   {
@@ -84,18 +84,19 @@
     "url": "https://envesko.cloud/api/esm/spotify/get-current-song",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "song-command-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "89.13%",
-    "uptimeWeek": "93.95%",
-    "uptimeMonth": "94.97%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "94.85%",
+    "uptimeMonth": "95.14%",
     "uptimeYear": "99.17%",
-    "time": 534,
-    "timeDay": 357,
-    "timeWeek": 474,
-    "timeMonth": 534,
+    "time": 533,
+    "timeDay": 335,
+    "timeWeek": 466,
+    "timeMonth": 536,
     "timeYear": 527,
     "dailyMinutesDown": {
+      "2026-02-25": 0,
       "2026-02-24": 157,
       "2026-02-22": 17,
       "2026-02-21": 196,
@@ -155,8 +156,7 @@
       "2025-11-28": 25,
       "2025-11-27": 48,
       "2025-11-26": 22,
-      "2025-11-25": 21,
-      "2025-11-24": 20
+      "2025-11-25": 21
     }
   },
   {
@@ -164,18 +164,19 @@
     "url": "https://envesko.cloud/api/esm/twitch/create-clip",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "clip-command-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "89.12%",
-    "uptimeWeek": "93.95%",
-    "uptimeMonth": "94.97%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "94.85%",
+    "uptimeMonth": "95.14%",
+    "uptimeYear": "99.18%",
     "time": 355,
-    "timeDay": 286,
-    "timeWeek": 295,
-    "timeMonth": 293,
+    "timeDay": 259,
+    "timeWeek": 291,
+    "timeMonth": 292,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2026-02-25": 0,
       "2026-02-24": 157,
       "2026-02-22": 17,
       "2026-02-21": 197,
@@ -234,8 +235,7 @@
       "2025-11-28": 25,
       "2025-11-27": 48,
       "2025-11-26": 22,
-      "2025-11-25": 21,
-      "2025-11-24": 20
+      "2025-11-25": 21
     }
   }
 ]
