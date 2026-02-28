@@ -4,16 +4,16 @@
     "url": "https://envesko.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "envesko-cloud-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "89.70%",
+    "uptimeDay": "89.69%",
     "uptimeWeek": "95.55%",
     "uptimeMonth": "95.14%",
     "uptimeYear": "99.15%",
     "time": 372,
-    "timeDay": 453,
-    "timeWeek": 363,
-    "timeMonth": 337,
+    "timeDay": 444,
+    "timeWeek": 361,
+    "timeMonth": 336,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2026-02-28": 141,
@@ -75,7 +75,7 @@
       "2025-12-03": 52,
       "2025-12-02": 46,
       "2025-12-01": 23,
-      "2025-11-30": 52
+      "2025-11-30": 36
     }
   },
   {
@@ -83,17 +83,17 @@
     "url": "https://envesko.cloud/api/esm/spotify/get-current-song",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "song-command-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "89.73%",
+    "uptimeDay": "89.71%",
     "uptimeWeek": "95.56%",
     "uptimeMonth": "95.14%",
     "uptimeYear": "99.15%",
-    "time": 531,
-    "timeDay": 435,
-    "timeWeek": 431,
-    "timeMonth": 531,
-    "timeYear": 525,
+    "time": 530,
+    "timeDay": 390,
+    "timeWeek": 415,
+    "timeMonth": 525,
+    "timeYear": 524,
     "dailyMinutesDown": {
       "2026-02-28": 140,
       "2026-02-27": 46,
@@ -154,7 +154,7 @@
       "2025-12-03": 52,
       "2025-12-02": 46,
       "2025-12-01": 23,
-      "2025-11-30": 52
+      "2025-11-30": 36
     }
   },
   {
@@ -162,16 +162,16 @@
     "url": "https://envesko.cloud/api/esm/twitch/create-clip",
     "icon": "https://icons.duckduckgo.com/ip3/envesko.cloud.ico",
     "slug": "clip-command-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "89.76%",
+    "uptimeDay": "89.74%",
     "uptimeWeek": "95.56%",
     "uptimeMonth": "95.14%",
     "uptimeYear": "99.15%",
-    "time": 353,
-    "timeDay": 270,
-    "timeWeek": 292,
-    "timeMonth": 294,
+    "time": 352,
+    "timeDay": 272,
+    "timeWeek": 284,
+    "timeMonth": 292,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2026-02-28": 140,
@@ -232,7 +232,7 @@
       "2025-12-03": 53,
       "2025-12-02": 46,
       "2025-12-01": 23,
-      "2025-11-30": 52
+      "2025-11-30": 36
     }
   }
 ]
